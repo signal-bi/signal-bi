@@ -1,0 +1,16 @@
+<svg width="284" height="120" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+
+ <g>
+  <title>background</title>
+  <!--rect fill="#fff" id="canvas_background" height="122" width="216" y="-1" x="-1"/-->
+  <rect x="-1" y="-1" height="122" width="286" id="canvas_background" fill="#fff"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!--text    stroke="#000" xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_1" y="215.482664" x="414.699634" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000"/-->
+  <text fill="#000000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="414.69963" y="215.48266" id="svg_1" font-size="24" font-family="Helvetica, Arial, sans-serif" text-anchor="start" xml:space="preserve" stroke="#000"/>
+  <text style="cursor: move;" stroke="#000" stroke-width="0" stroke-opacity="null" fill-opacity="null" x="3" y="99" id="svg_2" font-size="76" font-family="'Trebuchet MS', Gadget, sans-serif" text-anchor="start" xml:space="preserve" font-style="normal" font-weight="bold" fill="#2c3e50">SignalBI</text>
+  <path d="m29.78998,25.69468c6.11829,0 11.87084,2.33707 16.19221,6.57675c4.3313,4.24163 6.71263,9.89325 6.71263,15.90756l9.43187,0c0,-17.47077 -14.50859,-31.68129 -32.3387,-31.68129l0,9.19698l0.00199,0zm0.01193,-16.30708c21.81157,0 39.55223,17.40676 39.55223,38.80108l9.4279,0c0,-26.46604 -21.97258,-48 -48.98212,-48l0,9.19892l0.00199,0zm13.03963,32.37173c0,3.52014 -2.92398,6.37505 -6.52975,6.37505s-6.52976,-2.85491 -6.52976,-6.37505c0,-3.51626 2.92398,-6.37116 6.52976,-6.37116s6.52975,2.85296 6.52975,6.37116z" id="svg_3" transform="rotate(-45 54.28203201293945,24.188680648803704) " fill="#f75814"/>
+ </g>
+</svg>
