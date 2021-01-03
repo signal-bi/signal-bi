@@ -39,7 +39,7 @@
   <h3 align="center">Signal-BI</h3>
 
   <p align="center">
-    Constantly Updated Market Intelligence Personalized for You
+    Constantly Updated Market Intelligence - Personalized for You
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
